@@ -1,0 +1,11 @@
+day	type_talk	in_person_lecturers	in_person_participants	online zoom	YoutubeLive	YoutubeTotal	total
+Monday	opening/talks	8	30	46	1	237	322
+Monday	talks	8	30	60	6	163	267
+Tuesday	talks	7	30	53	2	69	161
+Tuesday	talks	7	30	36	3	70	146
+Wednesday	talks	7	30	38	1	29	105
+Wednesday	talks	7	30	33	3	42	115
+Thursday	talks	7	30	35	2	41	115
+Thursday	talks	7	30	33	1	32	103
+Friday	talks	7	30	30	2	16	85
+Friday	talks	7	30	37	7	1	82

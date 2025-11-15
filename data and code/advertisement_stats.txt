@@ -1,0 +1,220 @@
+Where did you hear about our school?	clean_col
+Facebook	Facebook
+"Teacher, Facebook"	Facebook
+Facebook	Facebook
+Teacher	Teacher
+linkedin post by Oleksandr Maistrenko	LinkedIn
+Friend	Friend
+Friend	Friend
+"Friend, Kateryna Shavanova"	Friend
+Facebook	Facebook
+LinkedIn	LinkedIn
+"News, Teacher, Facebook"	Facebook
+"Friend, Telegram"	Friend
+"Friend, Telegram"	Friend
+FaceBook	Facebook
+Colleague	Colleague
+Facebook	Facebook
+Colleague	Colleague
+Facebook	Facebook
+Colleague	Colleague
+Facebook	Facebook
+LinkedIn 	LinkedIn
+Teacher	Teacher
+"Teacher, Facebook"	Facebook
+Colleague	Colleague
+Linkedin	LinkedIn
+"Teacher, Telegram"	Teacher
+Teacher	Teacher
+linkedin	LinkedIn
+Website	Website
+Colleague	Colleague
+Facebook	Facebook
+Teacher	Teacher
+Facebook	Facebook
+Kateryna Shavanova	Friend
+"Website, Facebook, From University "	Facebook
+Telegram	Telegram
+Colleague	Colleague
+Colleague	Colleague
+EvolDir mailing list	EvolDir
+Teacher	Teacher
+EvolDir mailing list	EvolDir
+Mailing list	Mailing list
+"Facebook, email"	Facebook
+Colleague	Colleague
+Colleague	Colleague
+Teacher	Teacher
+Friend	Friend
+Teacher	Teacher
+Teacher	Teacher
+Email	Mailing list
+Facebook	Facebook
+Wechat	Wechat
+Colleague	Colleague
+Colleague	Colleague
+evoldir	EvolDir
+Facebook	Facebook
+Teacher	Teacher
+Colleague	Colleague
+Teacher	Teacher
+"As part of the Symbiosis Courses Group. I was a participant in the ECODIM course (XI edition) in 2023, held in Chile."	Mailing list
+Teacher	Teacher
+EvolDir	EvolDir
+Facebook	Facebook
+Website	Website
+Facebook	Facebook
+"Colleague, Friend"	Friend
+Teacher	Teacher
+Teacher	Teacher
+Teacher	Teacher
+Website	Website
+Website	Website
+Colleague	Colleague
+"Website, Teacher"	Teacher
+"Teacher, Facebook"	Facebook
+Teacher	Teacher
+Friend	Friend
+Friend	Friend
+"Teacher, Friend"	Friend
+"Website, Teacher"	Teacher
+"Colleague, Teacher, Facebook"	Facebook
+Telegram	Telegram
+Facebook	Facebook
+"Facebook, Telegram"	Facebook
+Telegram	Telegram
+Telegram	Telegram
+Colleague	Colleague
+Telegram	Telegram
+Website	Website
+"Colleague, Friend"	Friend
+Colleague	Colleague
+ LinkedIn	LinkedIn
+Friend	Friend
+"Colleague, Friend, Facebook"	Facebook
+Facebook	Facebook
+Friend	Friend
+Email from evoldir mailing list	EvolDir
+Friend	Friend
+Friend	Friend
+Colleague	Colleague
+"Telegram, I'm volunteering at Bioinformatics for Ukraine, so I here I saw the link for registration"	Telegram
+"Website, Telegram"	Website
+Teacher	Teacher
+"Website, Teacher, Facebook"	Facebook
+"Teacher, Facebook"	Facebook
+Colleague	Colleague
+Colleague	Colleague
+Colleague	Colleague
+Colleague	Colleague
+Facebook	Facebook
+"Teacher, Friend, Telegram"	Friend
+"Colleague, Friend"	Friend
+"Colleague, Friend"	Friend
+Colleague	Colleague
+Website	Website
+Telegram	Telegram
+"Website, News, Colleague, Telegram"	Colleague
+Colleague	Colleague
+Friend	Friend
+Friend	Friend
+"Friend, Telegram"	Friend
+Telegram	Telegram
+"Colleague, Teacher, Friend"	Friend
+"Website, Teacher, Facebook"	Facebook
+Telegram	Telegram
+Colleague	Colleague
+"Teacher, Friend"	Friend
+"Teacher, Facebook"	Facebook
+Telegram	Telegram
+Colleague	Colleague
+"Colleague, Telegram"	Colleague
+Colleague	Colleague
+"Teacher, Facebook"	Facebook
+"Teacher, Facebook"	Facebook
+Website	Website
+"Colleague, Friend, Telegram"	Friend
+Teacher	Teacher
+Ecolog email listserv	Mailing list
+Friend	Friend
+Website	Website
+Friend	Friend
+News	Mailing list
+"Website, Colleague"	Colleague
+Friend	Friend
+"Friend, Facebook"	Facebook
+Facebook	Facebook
+Colleague	Colleague
+mailing list	Mailing list
+"Teacher, Friend"	Friend
+LinkedIn	LinkedIn
+Colleague	Colleague
+evoldir	EvolDir
+"Facebook, Telegram"	Facebook
+Colleague	Colleague
+"Colleague, Facebook"	Facebook
+Facebook	Facebook
+Teacher	Teacher
+Friend	Friend
+Evoldir (newsletter)	EvolDir
+Teacher	Teacher
+"Colleague, Facebook"	Facebook
+Colleague	Colleague
+Facebook	Facebook
+Colleague	Colleague
+"Teacher, Facebook"	Facebook
+Website	Website
+Teacher	Teacher
+Teacher	Teacher
+"Colleague, Teacher"	Colleague
+"Colleague, Teacher, Dr. Dannie Durand, guest speaker for USEB. I am a potential research assistant for her lab"	Colleague
+Colleague	Colleague
+Colleague	Colleague
+Teacher	Teacher
+Teacher	Teacher
+Friend	Friend
+"Website, Teacher, Telegram"	Teacher
+Friend	Friend
+"Colleague, Facebook"	Facebook
+Teacher	Teacher
+Colleague	Colleague
+"Website, News, Teacher, Facebook"	Facebook
+Telegram	Telegram
+Telegram	Telegram
+Teacher	Teacher
+"Colleague, Friend"	Friend
+"Colleague, Teacher"	Colleague
+Teacher	Teacher
+Telegram	Telegram
+Teacher	Teacher
+Teacher	Teacher
+"Website, Telegram"	Website
+"Friend, Facebook"	Facebook
+Teacher	Teacher
+"News, Telegram"	Telegram
+"Website, Colleague, Facebook"	Facebook
+"Website, Teacher, Friend, Telegram"	Friend
+Colleague	Colleague
+"Colleague, Friend, Telegram"	Friend
+"Teacher, Telegram"	Teacher
+Colleague	Colleague
+Teacher	Teacher
+Teacher	Teacher
+Teacher	Teacher
+"Colleague, Teacher, Friend"	Friend
+"Teacher, Telegram"	Teacher
+"Colleague, Teacher"	Colleague
+Teacher	Teacher
+??????????? 	Website
+"Teacher, Friend, Telegram"	Friend
+"Colleague, Friend, Facebook"	Facebook
+"Teacher, Facebook"	Facebook
+"Friend, Facebook"	Facebook
+Teacher	Teacher
+"Website, Colleague, Teacher, Friend, Facebook, Telegram"	Facebook
+Colleague	Colleague
+Colleague	Colleague
+Teacher	Teacher
+Teacher	Teacher
+Teacher	Teacher
+Teacher	Teacher

@@ -1,0 +1,20 @@
+Location	Longitude	Latitude
+Paris	2.3514	48.8575
+Texel	4.783	53.0043
+Cork	-8.4756	51.8985
+Montpellier	3.8761	43.6109
+Liverpool	2.9916	53.4084
+Charlottesville	-78.4769	38.0302
+Tampa	-82.4588	27.9517
+"Rochester, Michigan"	-83.1338	42.6806
+Hull	0.3273	53.7675
+Warsaw	21.0122	52.2297
+Okinawa	127.8056	26.3344
+Cluj-Napoca	23.6236	46.7712
+"State College, PA"	-77.86	40.7934
+Kharkiv	36.3074	50.002
+Lviv	24.0297	49.8397
+Kyiv	30.5245	50.4504
+Pittsburgh	-79.9972	40.4387
+Vernadsky Research Base - UAC	-64.1528	-65.1445
+Uzhorod	22.2879	48.6208
