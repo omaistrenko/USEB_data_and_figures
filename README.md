@@ -8,9 +8,10 @@ Fundamental science is one of the cornerstones of societal development and, at t
 
 Links and data.
 
-The official website and the Facebook page:
+Official website:
 https://biology.karazin.ua/useb-evolbiol.html
 
+Facebook page:
 https://fb.me/e/2fVbzP0Ld
 
 ESEB Global Evolutionary Biology Initiative 
