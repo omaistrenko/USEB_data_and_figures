@@ -1,4 +1,8 @@
-# USEB statistics and figures
+# Ukrainian School in Evolutionary Biology
+
+Fundamental science is one of the cornerstones of societal development and, at the same time, among the most vulnerable to the negative impacts of wars, natural disasters, and economic crises. Since the full-scale invasion of Ukraine by the Russian Federation, the infrastructure, funding, and scientific community in the country have experienced major disruptions. These disruptions threaten the long-standing tradition of fundamental research, such as evolutionary biology in Ukraine, especially if the continuity of research and training breaks down. To counteract the negative effects of the war on the training of the next generation of scientists, we established the Ukrainian School in Evolutionary Biology (USEB) in 2025. The school attracted over 200 participants and faculty, including leading evolutionary biologists from Ukraine and abroad. USEB is an example of how hybrid, free of charge, and locally-organized workshops and schools can preserve and develop global scientific networks and educational continuity under extreme conditions. USEB and similar events are long-term investments that benefit the scientific community, and help the post-war recovery.
+
+
 
 
 
@@ -6,6 +10,7 @@ Links and data.
 
 The official website and the Facebook page:
 https://biology.karazin.ua/useb-evolbiol.html
+
 https://fb.me/e/2fVbzP0Ld
 
 ESEB Global Evolutionary Biology Initiative 
